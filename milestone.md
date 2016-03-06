@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "管他三七二十一先改改试试看，怎么个操作嘞？"
+description: "这个模块还没改好哦~？"
 header-img: "img/zhihu.jpg"
 ---
 
