@@ -1,16 +1,16 @@
-##说明
+## 说明
 
 此博客 fork 自 [cnfeat](http://cnfeat.com/)，感谢。
 
-##张网补星光
+## 张网补星光
 
 我是胡帆，博客：[www.hufanexplore.com](www.hufanexplore.com)
 
 生活是一场修行
 
-现在研习 **应用物理学** 。
+现在研习 **数据如何服务我们** 。
 
-##坚信
+## 坚信
 
 
 - 可以发现跟大的世界
